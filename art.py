@@ -1,9 +1,8 @@
-# art.py
-
 import sys
 import random
 
-chars = "\|/"
+
+chars = "\\|/"
 
 
 def draw(rows, columns):
